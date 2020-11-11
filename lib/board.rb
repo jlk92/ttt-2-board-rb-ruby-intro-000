@@ -1,3 +1,2 @@
-puts "Welcom to Tic Tac Toe!"
-"board" = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-play(board)
+board = Array.new
+board = [" ", " "," ", " ", " ", " ", " ", " ", " "]
