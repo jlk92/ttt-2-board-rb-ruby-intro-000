@@ -1,4 +1,4 @@
-board = "board"
+Board = "board"
 
 "board" = Array
 
