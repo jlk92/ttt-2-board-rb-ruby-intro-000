@@ -1,5 +1,5 @@
-board
+input = "board"
 
-board = "board"
+"board" = Array
 
-board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+"board" = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
