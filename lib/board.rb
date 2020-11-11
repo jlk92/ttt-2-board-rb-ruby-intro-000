@@ -1,6 +1,4 @@
-board = variable
-
-'board' = array
+"board" = array
 
 row = [" ", " ", " "]
 
