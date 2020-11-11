@@ -1,4 +1,6 @@
-[board] = "board"
+board
+
+board = "board"
 
 "board" = array
 
