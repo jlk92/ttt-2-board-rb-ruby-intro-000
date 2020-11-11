@@ -1,6 +1,6 @@
-board = "board"
+board = 'board'
 
-"board" = An array
+'board' = An array
 
 row = [" ", " ", " "]
 
