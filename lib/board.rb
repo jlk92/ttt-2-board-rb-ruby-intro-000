@@ -1,4 +1,4 @@
-board
+input = board
 
 "board" = array
 
