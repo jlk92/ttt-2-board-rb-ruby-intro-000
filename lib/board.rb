@@ -1,6 +1,6 @@
-board
+board = variable
 
-'board' = An array
+'board' = array
 
 row = [" ", " ", " "]
 
