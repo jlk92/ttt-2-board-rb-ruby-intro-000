@@ -2,4 +2,4 @@ board = "board"
 
 "board" = array
 
-array = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+puts board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
