@@ -2,4 +2,6 @@ board
 
 board = "board"
 
-puts board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+
+puts board
